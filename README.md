@@ -3,7 +3,7 @@
 Terrible crap Doodle Jump clone written in C++ with raylib 
 ### Here is some gameplay:
 
-<video src="media/vid1.mp4" controls title="Title" width="200px"></video>
+<video src="https://raw.githubusercontent.com/cash-i1/Doodle-UP/main/media/vid1.mp4" controls title="Title" width="200px"></video>
 
 
 ### Trivia:
